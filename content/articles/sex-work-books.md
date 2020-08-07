@@ -1,9 +1,9 @@
 ---
 title: "What I Learned from Reading Books by Sex Workers"
 date: 2020-08-07T11:33:16+01:00
-draft: true
+draft: false
 ---
-Donate to the Sex Worker Mutual Aid Fund <a  href="https://www.gofundme.com/f/sexworkermutualaidfunds" target="_blank"> here </a>
+Donate to the Sex Worker Mutual Aid Fund <a  href="https://www.gofundme.com/f/sexworkermutualaidfunds" target="_blank">here</a>.
 
 So you've seen *Hustlers?* Or maybe you saw Julia Roberts in Pretty Woman and though 'hm, that doesn't seem like such a bad job?' Wherever your image of sex workers has come from, chances are it probably didn't come from an *actual* sex worker. And if recent debates have taught us anything about self-representation, it's that it *matters*, like **really** matters. 
 
