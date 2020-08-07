@@ -1,0 +1,19 @@
+th, td { 
+    padding: 10px 5px;
+    border-bottom: 1px solid rgba(78, 0, 54, 0.4);
+}
+tbody > tr:nth-child(4) > td:nth-child(1), tbody > tr:nth-child(4) > td:nth-child(2) {
+    border: 0px;
+}
+table {
+    border-collapse: collapse;
+}
+hr {
+    border-width: 2px;
+}
+th {
+    display: none;
+}
+nav > div > a > img.w100 {
+    max-height: 128px;
+}
