@@ -1,0 +1,19 @@
+baseURL = "https://emilykate070.github.io/blog"
+languageCode = "en-gb"
+title = "Emily Kate"
+theme="ananke"
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.extensions]
+            table=true
+        [markup.goldmark.renderer]
+            unsafe=true
+[params]
+    custom_css=["styles/custom.css"]
+    instagram="https://www.instagram.com/queersandbooks/"
+    twitter="https://twitter.com/home"
+    favicon="assets/EKIcon.png"
+    site_logo="/blog/assets/EKIcon.png"
+    featured_image="assets/nyc.jpg"
+    background_color_class="bg-light-red"
+    description="Posts about advocacy, books, film and queerness 🏳️‍🌈"
