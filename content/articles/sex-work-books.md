@@ -68,4 +68,4 @@ https://www.swarmcollective.org/
 - Ten Reasons to Decriminalise Sex Work: https://www.opensocietyfoundations.org/publications/ten-reasons-decriminalize-sex-work
 - ICRSE Intersection Briefing Paper, 2015: https://www.sexworkeurope.org/sites/default/files/resource-pdfs/icrse_briefing_paper_october2015.pdf
 - 2018 study on Male, Two Spirit and Trans sex workers: https://journals.sagepub.com/doi/10.1177/1097184X16664951
-- COVID-19's affects on Sex Work: https://www.vogue.co.uk/arts-and-lifestyle/article/sex-workers-covid-19-pandemic
+- COVID-19's effects on Sex Work: https://www.vogue.co.uk/arts-and-lifestyle/article/sex-workers-covid-19-pandemic
