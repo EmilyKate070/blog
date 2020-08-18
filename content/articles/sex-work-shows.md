@@ -1,6 +1,6 @@
 ---
 title: "Shows by Sex Workers That Reveal a New Side to Sexuality"
-date: 2020-08-09T12:05:58+01:00
+date: 2020-08-18
 draft: false
 ---
 Following along the same path as my last article about books by sex workers, I want to continue talking about the importance self-representation through other forms of media. Films and TV shows offer some added benifits when it comes to self-representation; they're fairly accessible to audiences and provide *visual* representation, challenging physical assumptions of what it means to be a sex worker. Podcasts have entered our daily lives in such an influential way that they provide an outlet free for many to access and in a format that allows complex content to be unpacked over an hour or so. 
